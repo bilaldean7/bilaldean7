@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilaldean7
+- 👋 Hi, I’m bilal 
 - 👀 I’m interested in electronics, nanotechnology, wireless systems and communication
 - 🌱 I’m currently learning electronics and nanotechnology in a Master of Science program at Aalto
 - 💞️ I’m looking to collaborate on any electrical, IT, embedded systems, electronics projects.
